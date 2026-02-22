@@ -1,42 +1,50 @@
+<h1 align="center">Vadim Shiba</h1>
+<p align="center"><b>Fullstack Engineer</b> • Python/JS • Telegram & Web Platforms • Server Infrastructure</p>
 
-<div style="display: flex; align-items: center;">
-  <h1 style="margin-left: 20px; font-size: 3em;">BitSquad Team</h1>
-</div>
+<p align="center">
+  <a href="mailto:vadimshiba@duck.com"><img alt="Email" src="https://img.shields.io/badge/Email-vadimshiba%40duck.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/vadimshiba"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-vadimshiba-111111?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Production%20Systems-1B5E20?style=for-the-badge">
+</p>
 
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3154juz6jwa2qxare7qyuuvee23i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
+## About
+I build practical products end-to-end: backend APIs, frontend apps, Telegram integrations, and production deployment pipelines.
 
-<h1>🛠 Технологии и инструменты</h1>
+Core focus:
+- high-signal user flows, not demo-only code;
+- maintainable architecture and clear boundaries;
+- reliable deployment and operations.
 
-**Frontend:** 
+## Tech Stack
+**Backend:** Python, FastAPI, Flask, SQLAlchemy, Redis, PostgreSQL/SQLite
 
-![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3) ![SASS](https://img.shields.io/badge/-SASS-333?style=flat-square&logo=sass) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat-square&logo=tailwind-css)
+**Frontend:** React, JavaScript, HTML/CSS, Vite
 
-**Backend:** 
+**Integrations:** Telegram Bots, Telegram Mini Apps, payments/webhooks, external APIs
 
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js) ![Flask](https://img.shields.io/badge/-Flask-333?style=flat-square&logo=flask) ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb) ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python) ![Bot Frameworks](https://img.shields.io/badge/-Bot_Frameworks-333?style=flat-square&logo=python)
+**DevOps:** Docker, Linux, Nginx/Caddy, CI basics, shell automation
 
-**DevOps:** 
+## Featured Public Projects
+- `telegram_file_bot` - Telegram bot project with real-world automation flow
+  Link: https://github.com/vadimshiba/telegram_file_bot
+- `dot_daily` - daily utility/service repository
+  Link: https://github.com/vadimshiba/dot_daily
 
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux) ![Fail2ban](https://img.shields.io/badge/-Fail2ban-333?style=flat-square&logo=fail2ban) ![Nginx](https://img.shields.io/badge/-Nginx-333?style=flat-square&logo=nginx) ![Apache](https://img.shields.io/badge/-Apache-333?style=flat-square&logo=apache) ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-333?style=flat-square&logo=gnu-bash)
+## Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vadimshiba&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadimshiba&layout=compact&hide_border=true" alt="Top langs" />
+</p>
 
-**Инструменты:** 
+## Current Direction
+- Building private production projects in VPN, gaming, and web platform niches
+- Expanding open-source footprint via focused PRs and tooling
+- Improving test coverage and deployment quality across active repos
 
-![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github) ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333?style=flat-square&logo=visual-studio-code) ![Postman](https://img.shields.io/badge/-Postman-333?style=flat-square&logo=postman) ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma)
-
-
-## 📈 GitHub Статистика
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vadimshiba&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimshiba&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🔗 Контакты
-
-- Email: [Shiba Dev](mailto:vadimshiba@duck.com)
-
+## Contact
+- Email: `vadimshiba@duck.com`
 
 ---
-
-_Этот профиль был создан с ❤️ by [Vadim Shiba](https://github.com/vadimshiba)_
-
-
+<p align="center">Open to collaboration on product engineering, backend systems, and Telegram-driven platforms.</p>
