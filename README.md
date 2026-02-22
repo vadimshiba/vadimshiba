@@ -32,7 +32,7 @@
 
 ## 🔗 Контакты
 
-- Email: [Shiba Dev](mailto:vadimshiva@duck.com)
+- Email: [Shiba Dev](mailto:vadimshiba@duck.com)
 
 
 ---
