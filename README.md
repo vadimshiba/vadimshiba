@@ -43,10 +43,12 @@ and shipping infrastructure that can survive real traffic.
 - [dot_daily](https://github.com/vadimshiba/dot_daily) -> public daily planning app/service
 
 ## GitHub Metrics
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vadimshiba&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadimshiba&layout=compact&hide_border=true&theme=tokyonight" alt="langs" />
-</div>
+```txt
+[ live_telemetry ]
+status: online
+pipeline: build -> ship -> iterate
+mode: product_engineering
+```
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vadimshiba&bg_color=0f172a&color=22c55e&line=38bdf8&point=f8fafc&area=true&hide_border=true" alt="activity graph" />
